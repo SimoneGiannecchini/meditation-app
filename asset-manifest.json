@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/meditation-app/static/css/main.26424a0e.css",
+    "main.js": "/meditation-app/static/js/main.f68dfdd9.js",
+    "static/media/forest.mp3": "/meditation-app/static/media/forest.305c6546f835f297dbe7.mp3",
+    "static/media/BgAbout.webp": "/meditation-app/static/media/BgAbout.2bfa8b3de6139e244b62.webp",
+    "static/media/bgHome.webp": "/meditation-app/static/media/bgHome.a8fbc5a7edc830b8a779.webp",
+    "static/media/BgMeditation.webp": "/meditation-app/static/media/BgMeditation.06a205baf541f166516f.webp",
+    "index.html": "/meditation-app/index.html",
+    "main.26424a0e.css.map": "/meditation-app/static/css/main.26424a0e.css.map",
+    "main.f68dfdd9.js.map": "/meditation-app/static/js/main.f68dfdd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26424a0e.css",
+    "static/js/main.f68dfdd9.js"
+  ]
+}
