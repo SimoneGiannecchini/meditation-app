@@ -41,30 +41,40 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# 🧘‍♀️ Meditation App
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Benvenuto nella **Meditation App**, un’applicazione web pensata per aiutarti a ritrovare calma e concentrazione. Con un timer personalizzabile, immagini ispirate alla meditazione e un design pulito, l’esperienza è pensata per essere rilassante, semplice e intuitiva.
 
-### Code Splitting
+🔗 [Guarda la demo live](https://simonegiannecchini.github.io/meditation-app/#/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🌿 Caratteristiche principali
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **⏳ Timer programmabile dall’utente**: imposta la durata della tua sessione di meditazione.
+- **⏸️ Timer controllabile**: puoi metterlo in pausa e riattivarlo quando vuoi.
+- **🧘 Riferimenti visivi e testuali alla meditazione**: per aiutarti a creare l’atmosfera giusta.
+- **🎯 UI/UX semplice e pulita**: un’interfaccia pensata per essere chiara e rilassante.
+- **📱 Design responsive**: perfettamente utilizzabile su desktop, tablet e smartphone.
+- **📁 Architettura chiara e ordinata**: il codice è strutturato in modo comprensibile e modulare.
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🚀 Tecnologie utilizzate
 
-### Advanced Configuration
+Questa app è stata sviluppata con:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- **React** – per la gestione dell’interfaccia utente
+- **React Router** – per la navigazione tra le pagine
+- **Axios** – per eventuali chiamate API esterne
+- **React Hooks** – per la gestione dello stato e degli effetti
+- **Context API** – per la gestione dello stato globale dell’app
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🛠️ Come installare il progetto in locale
 
-### `npm run build` fails to minify
+1. Clona il repository:
+   ```bash
+   git clone https://github.com/simonegiannecchini/meditation-app.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
