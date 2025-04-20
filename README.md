@@ -29,66 +29,41 @@ Questa app è stata sviluppata con:
 
 ---
 
-# 📥 Clonazione di un Repository GitHub
+# 📥 Come Clonare un Progetto da GitHub
 
-## ✅ Prerequisiti
-Assicurati di avere installato **Git** sul tuo computer.  
-Puoi verificarlo aprendo il terminale e digitando:
+## ✅ Passaggi Semplici
 
+1. **Vai al repository su GitHub**
+
+   Apri il progetto che vuoi clonare, ad esempio:  
+   `https://github.com/username/nome-progetto`
+
+2. **Clicca sul pulsante verde "Code"**
+
+   Vedrai un menu a tendina con l’URL del progetto.
+
+3. **Copia l’URL (HTTPS consigliato)**
+
+   Esempio:  
+   `https://github.com/username/nome-progetto.git`
+
+4. **Apri il terminale (Git Bash o altro)**
+
+   Spostati nella cartella dove vuoi scaricare il progetto:
+
+   ```bash
+   cd /percorso/della/tua/cartella
+
+5. **Clona il progetto con Git**
 ```bash
-git --version
-🔗 1. Vai al Repository su GitHub
-Apri il tuo browser e vai alla pagina principale del repository che vuoi clonare.
-
-📋 2. Copia l'URL
-Clicca sul pulsante "Code" (verde) e scegli una delle opzioni:
-
-HTTPS – per la maggior parte degli utenti
-
-SSH – se hai configurato una chiave SSH
-
-GitHub CLI – se usi gh da terminale
-
-Poi clicca sull’icona di copia accanto all’URL.
-
-🖥️ 3. Apri il terminale (Git Bash su Windows)
-Spostati nella cartella dove vuoi salvare il repository:
-
-bash
-Copia
-Modifica
-cd /percorso/della/tua/cartella
-🧬 4. Clona il Repository
-Incolla il comando seguente, sostituendo con l’URL che hai copiato:
-
-bash
-Copia
-Modifica
-git clone https://github.com/YOUR-USERNAME/NOME-REPOSITORY.git
-E premi Invio. Esempio:
-
-bash
-Copia
-Modifica
-git clone https://github.com/SimoneDev/viaggi-weekend.git
-📂 5. Vai dentro la cartella appena clonata
-bash
-Copia
-Modifica
-cd NOME-REPOSITORY
-🆕 Se il repository è vuoto...
-Non preoccuparti se non vedi file. Puoi iniziare aggiungendo un nuovo file:
-
-bash
-Copia
-Modifica
-touch README.md
-git add README.md
-git commit -m "Aggiunto README"
-git push
-🚀 Fatto!
-Hai clonato il repository con successo e sei pronto a lavorarci.
-
+git clone https://github.com/username/nome-progetto.git
+```
+6. **Vai nella cartella del progetto**
+ ```bash
+cd nome-progetto
+```
+## 🎉 Fatto! Ora hai una copia del progetto sul tuo computer e puoi iniziare a lavorarci.
+---
 ## 📜 Licenza MIT
 
 Questo progetto è liberamente utilizzabile secondo i termini della licenza [MIT](https://opensource.org/licenses/MIT).
