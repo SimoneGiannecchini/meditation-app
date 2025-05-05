@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmeditation_app=self.webpackChunkmeditation_app||[]).push([[264],{264:(e,n,s)=>{s.r(n),s.d(n,{default:()=>a});s(43);var t=s(475),i=(s(448),s(579));const a=()=>(0,i.jsxs)("div",{className:"page-home",children:[(0,i.jsx)("h1",{children:"Every journey begins within."}),(0,i.jsx)("p",{children:"Give yourself a moment of stillness. Everything else can wait."}),(0,i.jsx)(t.N_,{to:"/meditation",children:(0,i.jsx)("button",{className:"zen-button",children:"Start now"})})]})}}]);
+//# sourceMappingURL=264.db7a81e4.chunk.js.map
