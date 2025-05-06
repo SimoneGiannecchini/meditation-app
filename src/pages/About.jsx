@@ -15,9 +15,9 @@ const About = () => {
         We aim to promote a culture of awareness and serenity, where meditation
         becomes a daily tool for living better and with greater presence.
       </p>
-      <button><Link to="/meditation"className="zen-button">
-      Start Meditating
-      </Link></button>
+      <Link to="/meditation">
+      <button className="zen-button">Start Meditating</button>
+      </Link>
     </div>
   );
 };
