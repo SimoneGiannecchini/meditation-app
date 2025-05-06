@@ -14,6 +14,8 @@ Benvenuto nella **Meditation App**, un’applicazione web pensata per aiutarti a
 - **🎯 UI/UX semplice e pulita**: un’interfaccia pensata per essere chiara e rilassante.
 - **📱 Design responsive**: perfettamente utilizzabile su desktop, tablet e smartphone.
 - **📁 Architettura chiara e ordinata**: il codice è strutturato in modo comprensibile e modulare.
+- **⚙️ Ottimizzazioni delle performance** Landy Loading con React.lazy e Suspense
+
 
 ---
 
