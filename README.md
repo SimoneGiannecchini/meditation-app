@@ -28,7 +28,17 @@ Questa app è stata sviluppata con:
 - **Context API** – per la gestione dello stato globale dell’app
 
 ---
+## 🔐 Funzione Login
 
+L'app include un sistema di autenticazione base dove l'utente può:
+
+- Registrarsi o accedere tramite **email e password**
+- **Salvare e gestire le sessioni di meditazione**
+
+
+> Il pulsante **"Login"** è visibile nell'header dell'app e permette di accedere a un pannello personale dove si possono gestire le proprie preferenze e attività.
+
+---
 # 📥 Come Clonare un Progetto da GitHub
 
 ## ✅ Passaggi Semplici
