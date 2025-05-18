@@ -60,7 +60,11 @@ box-shadow: none;
 }
 
 }
-
+.register-link{
+  text-decoration: none;
+  font-weight: bold;
+  color:green;
+}
 
 body {
   font-family: 'Segoe UI', sans-serif;
@@ -125,7 +129,7 @@ body {
     }
 
     .active a {
-      color: #0077aa;
+      color: rgb(13, 202, 13);
     }
 
     &.open {

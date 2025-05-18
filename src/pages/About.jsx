@@ -5,8 +5,7 @@ import "../styles.scss";
 const About = () => {
   const navigate = useNavigate();
 
-  const handleClick = (e) => {
-    e.target.classList.add("clicked");
+  const handleClick = () => {
     setTimeout(() => {
       navigate("/meditation");
     }, 200);
