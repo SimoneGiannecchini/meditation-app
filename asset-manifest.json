@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/meditation-app/static/css/main.1ebb9a60.css",
-    "main.js": "/meditation-app/static/js/main.c0c3b1ed.js",
+    "main.css": "/meditation-app/static/css/main.5c5a897a.css",
+    "main.js": "/meditation-app/static/js/main.1582be65.js",
     "static/js/264.db7a81e4.chunk.js": "/meditation-app/static/js/264.db7a81e4.chunk.js",
-    "static/js/191.31c5d591.chunk.js": "/meditation-app/static/js/191.31c5d591.chunk.js",
+    "static/js/407.f6cdf17c.chunk.js": "/meditation-app/static/js/407.f6cdf17c.chunk.js",
     "static/js/638.6cb92a95.chunk.js": "/meditation-app/static/js/638.6cb92a95.chunk.js",
-    "static/js/665.8a6b0f4a.chunk.js": "/meditation-app/static/js/665.8a6b0f4a.chunk.js",
+    "static/css/803.d6c2073a.chunk.css": "/meditation-app/static/css/803.d6c2073a.chunk.css",
+    "static/js/803.d62d0b97.chunk.js": "/meditation-app/static/js/803.d62d0b97.chunk.js",
+    "static/js/490.32d2632c.chunk.js": "/meditation-app/static/js/490.32d2632c.chunk.js",
+    "static/js/496.eac48da5.chunk.js": "/meditation-app/static/js/496.eac48da5.chunk.js",
     "static/media/forest.mp3": "/meditation-app/static/media/forest.305c6546f835f297dbe7.mp3",
     "static/media/bgabout.webp": "/meditation-app/static/media/bgabout.2bfa8b3de6139e244b62.webp",
     "static/media/bgHome.webp": "/meditation-app/static/media/bgHome.a8fbc5a7edc830b8a779.webp",
     "static/media/BgMeditation.webp": "/meditation-app/static/media/BgMeditation.06a205baf541f166516f.webp",
     "index.html": "/meditation-app/index.html",
-    "main.1ebb9a60.css.map": "/meditation-app/static/css/main.1ebb9a60.css.map",
-    "main.c0c3b1ed.js.map": "/meditation-app/static/js/main.c0c3b1ed.js.map",
+    "main.5c5a897a.css.map": "/meditation-app/static/css/main.5c5a897a.css.map",
+    "main.1582be65.js.map": "/meditation-app/static/js/main.1582be65.js.map",
     "264.db7a81e4.chunk.js.map": "/meditation-app/static/js/264.db7a81e4.chunk.js.map",
-    "191.31c5d591.chunk.js.map": "/meditation-app/static/js/191.31c5d591.chunk.js.map",
+    "407.f6cdf17c.chunk.js.map": "/meditation-app/static/js/407.f6cdf17c.chunk.js.map",
     "638.6cb92a95.chunk.js.map": "/meditation-app/static/js/638.6cb92a95.chunk.js.map",
-    "665.8a6b0f4a.chunk.js.map": "/meditation-app/static/js/665.8a6b0f4a.chunk.js.map"
+    "803.d6c2073a.chunk.css.map": "/meditation-app/static/css/803.d6c2073a.chunk.css.map",
+    "803.d62d0b97.chunk.js.map": "/meditation-app/static/js/803.d62d0b97.chunk.js.map",
+    "490.32d2632c.chunk.js.map": "/meditation-app/static/js/490.32d2632c.chunk.js.map",
+    "496.eac48da5.chunk.js.map": "/meditation-app/static/js/496.eac48da5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ebb9a60.css",
-    "static/js/main.c0c3b1ed.js"
+    "static/css/main.5c5a897a.css",
+    "static/js/main.1582be65.js"
   ]
 }
