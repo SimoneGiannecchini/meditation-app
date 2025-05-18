@@ -6,6 +6,7 @@ import forestSound from "../assets/forest.mp3";
 
 import app from "../assets/firebaseConfig";
 import { getFirestore, collection, addDoc } from "firebase/firestore";
+import { getAuth } from "firebase/auth"; // ⬅️ IMPORTANTE
 
 import "../styles.scss";
 
@@ -15,6 +16,8 @@ const Meditation = () => {
   const [duration, setDuration] = useState(5);
 
   const db = getFirestore(app);
+  const auth = getAuth(app); // ⬅️ Ottenere autenticazione
+
   useAudioPlayer(forestSound, canPlay);
 
   const handleQuoteChange = (newQuote) => {
@@ -22,14 +25,22 @@ const Meditation = () => {
   };
 
   const handleSaveSession = async () => {
+    const user = auth.currentUser;
+
+    if (!user) {
+      alert("Devi essere loggato per salvare una sessione.");
+      return;
+    }
+
     try {
       await addDoc(collection(db, "meditationSessions"), {
         date: new Date(),
         durationInMinutes: duration,
         meditationType: "forestSound",
         motivationalQuote: quote,
+        userId: user.uid, // ⬅️ Importantissimo per le regole Firestore
       });
-      alert("Sessione salvata!");
+      alert("Sessione salvata con successo!");
     } catch (error) {
       console.error("Errore durante il salvataggio:", error);
     }
