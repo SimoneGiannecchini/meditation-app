@@ -36,7 +36,7 @@ L'app include un sistema di autenticazione base dove l'utente può:
 - **Salvare e gestire le sessioni di meditazione**
 
 
-> Il pulsante **"Login"** è visibile nell'header dell'app e permette di accedere a un pannello personale dove si possono gestire le proprie preferenze e attività.
+> Il pulsante **"Login"** è visibile nell'header dell'app e permette di accedere.
 
 ---
 # 📥 Come Clonare un Progetto da GitHub
